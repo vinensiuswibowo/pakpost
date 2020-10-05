@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d30df26d.chunk.css",
+    "main.js": "./static/js/main.991c6d77.chunk.js",
+    "main.js.map": "./static/js/main.991c6d77.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b85b25c4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b85b25c4.js.map",
+    "static/js/2.b9900151.chunk.js": "./static/js/2.b9900151.chunk.js",
+    "static/js/2.b9900151.chunk.js.map": "./static/js/2.b9900151.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.0d1f6041d3dc10edb30de38eac66fb09.js": "./precache-manifest.0d1f6041d3dc10edb30de38eac66fb09.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.d30df26d.chunk.css.map": "./static/css/main.d30df26d.chunk.css.map",
+    "static/js/2.b9900151.chunk.js.LICENSE.txt": "./static/js/2.b9900151.chunk.js.LICENSE.txt",
+    "static/media/delivery.c075d67c.svg": "./static/media/delivery.c075d67c.svg",
+    "static/media/shipping.182f9d6e.svg": "./static/media/shipping.182f9d6e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b85b25c4.js",
+    "static/js/2.b9900151.chunk.js",
+    "static/css/main.d30df26d.chunk.css",
+    "static/js/main.991c6d77.chunk.js"
+  ]
+}
